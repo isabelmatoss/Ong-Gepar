@@ -14,12 +14,12 @@ funcional e pronta para evoluir conforme as necessidades dos usuários.
 
 Qual é a principal interação do usuário?
 A principal interação será explorar os animais disponíveis para adoção e 
-entrar em contato com o Bem Estar Animal. A página permitirá conhecer os animais por 
+entrar em contato com a Ong Gepar. A página permitirá conhecer os animais por 
 meio de fotos e informações, além de oferecer formas de contato com a instituição.
 
 Quais telas são realmente possíveis?
 O MVP terá uma única página (landing page), organizada nas seguintes seções:
-*Logo daqq Instituição com a frase de apresentação.
+*Logo da Instituição com a frase de apresentação.
 *Vitrine de animais disponíveis para adoção (com possibilidade de ampliação futura).
 *Botões Ancora.
 *Guia de adoção responsavel em pdf.
